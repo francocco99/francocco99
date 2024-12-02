@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Francesco Caprari. I am currently a Master's student in Computer Science with a focus on Big Data Technology.
 - 💻 I graduated with a Bachelor's degree in Computer Science from Pisa in 2022.
-- 📫 How to reach me: fracier@hotmail.it
+- 📫 How to reach me: fracier@hotmail.it, f.caprari@outlook.it
 - ⚡"The best solution is not always the most efficient one"
   
 ## Stats
