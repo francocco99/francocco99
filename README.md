@@ -2,7 +2,7 @@
 
 - 👋 Hi, I'm Francesco Caprari. I am currently a Front End, Back End developer
 - 💻 I graduated with a Bachelor's degree in Computer Science from Pisa in 2022.
-- I graduated with a Master's degree in Computer Science from Pisa in 2026 with a focusa on Big Data Technology
+- 💻 I graduated with a Master's degree in Computer Science from Pisa in 2026 with a focusa on Big Data Technology
 - 📫 How to reach me: fracier@hotmail.it, f.caprari@outlook.it
 - ⚡"The best solution is not always the most efficient one"
   
